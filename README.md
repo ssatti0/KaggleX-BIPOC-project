@@ -17,4 +17,5 @@ OpenCV: Deep Learning with Tensorflow and Keras
 Data: https://www.kaggle.com/datasets/csafrit2/plant-leaves-for-image-classification
 
 Streamlit App:
+
 <img width="272" alt="Streamlit_App" src="https://user-images.githubusercontent.com/55598977/225723689-a3af7491-f778-47ce-9c78-99ea977118b9.PNG">
