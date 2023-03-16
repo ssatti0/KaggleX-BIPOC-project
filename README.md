@@ -21,5 +21,3 @@ Streamlit App:
 
 <img width="272" alt="Streamlit_App_testdataset" src="https://user-images.githubusercontent.com/55598977/225750029-21154e81-6150-44fb-887d-85e7a476f88a.PNG">
 
-
-<img width="272" alt="Streamlit_App" src="https://user-images.githubusercontent.com/55598977/225723689-a3af7491-f778-47ce-9c78-99ea977118b9.PNG">
